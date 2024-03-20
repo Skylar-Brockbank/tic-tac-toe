@@ -4,6 +4,8 @@
 
 #### _A Tic Tac Toe Website with a computer player option_
 
+Try it [here](https://skylar-brockbank.github.io/tic-tac-toe/)
+
 ## Technologies Used
 
 * _HTML_
